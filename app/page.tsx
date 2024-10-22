@@ -22,9 +22,9 @@ const Home = () => {
                  </h1>
                  <p className='py-5 paragraph-text'> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi ex eos sequi temporibus nulla! Aut, ad. Maxime dolor voluptatum culpa qui</p>
                 <Searchbar/>
-                <HeroCarousel/>
+               
               </div>
-              
+              <HeroCarousel/>
             
             </div>
         </section>
